@@ -1,19 +1,15 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2c5364,203a43,0f2027&height=200&section=header&text=ADRIEL%20SILVA%20HERNÁNDEZ&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
-
-<br><br><br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2c5364,203a43,0f2027&height=220&section=header&text=ADRIEL%20SILVA%20HERNÁNDEZ&fontSize=48&fontColor=
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2c5364,203a43,0f2027&height=200&section=header&text=ADRIEL%20SILVA%20HERNÁNDEZ&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" alt="Adriel Silva Hernández Header Banner"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&width=700&lines=Python+·+C%2B%2B+·+Bash+·+PowerShell;Docker+·+Git+·+systemd+·+SSH+·+GPG;LM+Studio+·+Ollama+·+Claude+API;RAG+Pipelines+·+Multi-agent+Orchestration;Game+Scripting+·+Folkloric+Novels)](https://github.com/Adrielantoni00)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&width=700&lines=Python+·+C%2B%2B+·+Bash+·+PowerShell;Docker+·+Git+·+systemd+·+SSH+·+GPG;LM+Studio+·+Ollama+·+Claude+API;RAG+Pipelines+·+Multi-agent+Orchestration;Game+Scripting+·+Folkloric+Novels)](https://github.com/Adrielantoni00 "Adriel's Tech Stack")
 
 <!-- Badges interactivos de contacto -->
-[![Email](https://img.shields.io/badge/📧_Adrielantoni00@icloud.com-EA4335?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=000)](mailto:Adrielantoni00@icloud.com)
-[![Phone](https://img.shields.io/badge/📱_939--454--6674-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000)](tel:9394546674)
-[![GitHub](https://img.shields.io/badge/🔗_Portfolio-Adrielantoni0__0-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000)](https://github.com/Adrielantoni00/Adrielantoni0_0)
-[![Location](https://img.shields.io/badge/📍_Bayamón,_PR_00956-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000)]()
+[![Email](https://img.shields.io/badge/📧_Adrielantoni00@icloud.com-EA4335?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=000)](mailto:Adrielantoni00@icloud.com "Send email")
+[![Phone](https://img.shields.io/badge/📱_939--454--6674-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000)](tel:9394546674 "Call or message")
+[![GitHub](https://img.shields.io/badge/🔗_Portfolio-Adrielantoni0__0-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000)](https://github.com/Adrielantoni00/Adrielantoni0_0 "View Portfolio")
+[![Location](https://img.shields.io/badge/📍_Bayamón,_PR_00956-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000)](null "Location")
 
 </div>
 
@@ -149,8 +145,8 @@ Motivated and adaptable developer combining **field expertise** (solar installat
 
 | 📜 | Title | Date |
 |:---:|:---|:---:|
-| 🐍 | **Python Pro Certificate** | Nov 2025 |
-| 💻 | **Programming & Computer Technology (120h)** | Jun 2025 |
+| 🐍 | **Python Pro Certificate** | Nov 2024 |
+| 💻 | **Programming & Computer Technology (120h)** | Jun 2024 |
 | 🏫 | **Francisco Gaztambide Vega High School** — Bayamón, PR | May 2018 |
 
 ---
@@ -160,20 +156,20 @@ Motivated and adaptable developer combining **field expertise** (solar installat
 <div align="center">
 
 <!-- Animated margin visualization showing dynamic spacing adjustments -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=36BCF7,009688,9400D3&height=80&text=MARGIN%20TWEAKS%20ANIMATION&fontSize=28&fontColor=fff&animation=twinkle&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=36BCF7,009688,9400D3&height=80&text=MARGIN%20TWEAKS%20ANIMATION&fontSize=28&fontColor=fff&animation=twinkle&section=header" width="100%" alt="Margin Tweaks Animation Banner"/>
 
 <br>
 
 | **Before** | **Animation** | **After** |
 |:---:|:---:|:---:|
-| <img src="https://placehold.co/150x80/1a1a2e/FFF?text=Static" width="150"/> | <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7,009688,9400D3&height=80&text=Animating...&fontSize=20&fontColor=fff&animation=fadeIn&section=header" width="150"/> | <img src="https://placehold.co/150x80/16213e/FFF?text=Optimized" width="150"/> |
+| <img src="https://placehold.co/150x80/1a1a2e/FFF?text=Static" width="150" alt="Static layout before optimization"/> | <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7,009688,9400D3&height=80&text=Animating...&fontSize=20&fontColor=fff&animation=fadeIn&section=header" width="150" alt="Animated transition"/> | <img src="https://placehold.co/150x80/16213e/FFF?text=Optimized" width="150" alt="Optimized layout after"/> |
 
 <br>
 
 <!-- Dynamic spacing indicator -->
-[![Spacing](https://img.shields.io/badge/Dynamic_Margin_Adjustment-Active-36BCF7?style=for-the-badge&logo=figma&logoColor=white)]()
-[![Responsive](https://img.shields.io/badge/Responsive_Layout-Enabled-009688?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-[![Animation](https://img.shields.io/badge/Smooth_Transitions-CSS3-9400D3?style=for-the-badge&logo=css3&logoColor=white)]()
+[![Spacing](https://img.shields.io/badge/Dynamic_Margin_Adjustment-Active-36BCF7?style=for-the-badge&logo=figma&logoColor=white)](null "Dynamic margin adjustment active")
+[![Responsive](https://img.shields.io/badge/Responsive_Layout-Enabled-009688?style=for-the-badge&logo=bootstrap&logoColor=white)](null "Responsive layout enabled")
+[![Animation](https://img.shields.io/badge/Smooth_Transitions-CSS3-9400D3?style=for-the-badge&logo=css3&logoColor=white)](null "Smooth CSS3 transitions")
 
 </div>
 
@@ -183,14 +179,14 @@ Motivated and adaptable developer combining **field expertise** (solar installat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adrielantoni00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=fff" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrielantoni00&theme=tokyonight&hide_border=true&background=0d1117" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Adrielantoni00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=fff" height="180" alt="GitHub stats for Adrielantoni00"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adrielantoni00&theme=tokyonight&hide_border=true&background=0d1117" height="180" alt="GitHub streak stats for Adrielantoni00"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrielantoni00&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adrielantoni00&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%" alt="GitHub activity graph for Adrielantoni00"/>
 
 </div>
 
@@ -244,15 +240,15 @@ Original narratives rooted in traditional Caribbean folklore with integrated mus
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Adrielantoni00@icloud.com-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:Adrielantoni00@icloud.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@Adrielantoni00-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adrielantoni00)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Adrielantoni0__0-4169E1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adrielantoni00/Adrielantoni0_0)
+[![Email](https://img.shields.io/badge/Email-Adrielantoni00@icloud.com-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:Adrielantoni00@icloud.com "Send email")
+[![GitHub](https://img.shields.io/badge/GitHub-@Adrielantoni00-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adrielantoni00 "View GitHub profile")
+[![Portfolio](https://img.shields.io/badge/Portfolio-Adrielantoni0__0-4169E1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adrielantoni00/Adrielantoni0_0 "View portfolio")
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f2027,203a43,2c5364&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0f2027,203a43,2c5364&height=150&section=footer" width="100%" alt="Footer banner"/>
 
 <div align="center">
 
