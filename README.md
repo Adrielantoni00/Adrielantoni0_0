@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2c5364,203a43,0f2027&height=220&section=header&text=ADRIEL%20SILVA%20HERNÁNDEZ&fontSize=48&fontColor=fff&animation=fadeIn&desc=Software%20Developer%20·%20Linux%20·%20Local%20AI%20·%20Automation&descSize=20&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2c5364,203a43,0f2027&height=220&section=header&text=ADRIEL%20SILVA%20HERNÁNDEZ&fontSize=48&fontColor=
 
 <div align="center">
 
