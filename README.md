@@ -1,10 +1,13 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2c5364,203a43,0f2027&height=200&section=header&text=ADRIEL%20SILVA%20HERNÁNDEZ&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+<br><br><br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2c5364,203a43,0f2027&height=220&section=header&text=ADRIEL%20SILVA%20HERNÁNDEZ&fontSize=48&fontColor=
+
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&width=700&lines=Python+·+C%2B%2B+·+Bash+·+PowerShell;Docker+·+Git+·+systemd+·+SSH+·+GPG;LM+Studio+·+Ollama+·+Claude+API;RAG+Pipelines+·+Multi-agent+Orchestration;Game+Scripting+·+Folkloric+Novels)](https://github.com/Adrielantoni00)
-
-<br>
 
 <!-- Badges interactivos de contacto -->
 [![Email](https://img.shields.io/badge/📧_Adrielantoni00@icloud.com-EA4335?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=000)](mailto:Adrielantoni00@icloud.com)
@@ -149,6 +152,30 @@ Motivated and adaptable developer combining **field expertise** (solar installat
 | 🐍 | **Python Pro Certificate** | Nov 2025 |
 | 💻 | **Programming & Computer Technology (120h)** | Jun 2025 |
 | 🏫 | **Francisco Gaztambide Vega High School** — Bayamón, PR | May 2018 |
+
+---
+
+## 🎨 Margin Tweaks Animation
+
+<div align="center">
+
+<!-- Animated margin visualization showing dynamic spacing adjustments -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=36BCF7,009688,9400D3&height=80&text=MARGIN%20TWEAKS%20ANIMATION&fontSize=28&fontColor=fff&animation=twinkle&section=header" width="100%"/>
+
+<br>
+
+| **Before** | **Animation** | **After** |
+|:---:|:---:|:---:|
+| <img src="https://placehold.co/150x80/1a1a2e/FFF?text=Static" width="150"/> | <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7,009688,9400D3&height=80&text=Animating...&fontSize=20&fontColor=fff&animation=fadeIn&section=header" width="150"/> | <img src="https://placehold.co/150x80/16213e/FFF?text=Optimized" width="150"/> |
+
+<br>
+
+<!-- Dynamic spacing indicator -->
+[![Spacing](https://img.shields.io/badge/Dynamic_Margin_Adjustment-Active-36BCF7?style=for-the-badge&logo=figma&logoColor=white)]()
+[![Responsive](https://img.shields.io/badge/Responsive_Layout-Enabled-009688?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![Animation](https://img.shields.io/badge/Smooth_Transitions-CSS3-9400D3?style=for-the-badge&logo=css3&logoColor=white)]()
+
+</div>
 
 ---
 
