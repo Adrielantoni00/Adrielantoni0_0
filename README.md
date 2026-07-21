@@ -152,6 +152,30 @@ Motivated and adaptable developer combining **field expertise** (solar installat
 
 ---
 
+## 🎨 Margin Tweaks Animation
+
+<div align="center">
+
+<!-- Animated margin visualization showing dynamic spacing adjustments -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=36BCF7,009688,9400D3&height=80&text=MARGIN%20TWEAKS%20ANIMATION&fontSize=28&fontColor=fff&animation=twinkle&section=header" width="100%"/>
+
+<br>
+
+| **Before** | **Animation** | **After** |
+|:---:|:---:|:---:|
+| <img src="https://placehold.co/150x80/1a1a2e/FFF?text=Static" width="150"/> | <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7,009688,9400D3&height=80&text=Animating...&fontSize=20&fontColor=fff&animation=fadeIn&section=header" width="150"/> | <img src="https://placehold.co/150x80/16213e/FFF?text=Optimized" width="150"/> |
+
+<br>
+
+<!-- Dynamic spacing indicator -->
+[![Spacing](https://img.shields.io/badge/Dynamic_Margin_Adjustment-Active-36BCF7?style=for-the-badge&logo=figma&logoColor=white)]()
+[![Responsive](https://img.shields.io/badge/Responsive_Layout-Enabled-009688?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+[![Animation](https://img.shields.io/badge/Smooth_Transitions-CSS3-9400D3?style=for-the-badge&logo=css3&logoColor=white)]()
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
