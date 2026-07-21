@@ -1,5 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2c5364,203a43,0f2027&height=220&section=header&text=ADRIEL%20SILVA%20HERNÁNDEZ&fontSize=48&fontColor=fff&animation=fadeIn&desc=Software%20Developer%20·%20Linux%20·%20Local%20AI%20·%20Automation&descSize=20&descAlignY=52" width="100%"/>
 
+<br><br><br>
+
+---
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&width=700&lines=Python+·+C%2B%2B+·+Bash+·+PowerShell;Docker+·+Git+·+systemd+·+SSH+·+GPG;LM+Studio+·+Ollama+·+Claude+API;RAG+Pipelines+·+Multi-agent+Orchestration;Game+Scripting+·+Folkloric+Novels)](https://github.com/Adrielantoni00)
@@ -11,6 +15,8 @@
 [![Location](https://img.shields.io/badge/📍_Bayamón,_PR_00956-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000)]()
 
 </div>
+
+---
 
 ## 🎯 Professional Summary
 
