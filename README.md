@@ -1,6 +1,9 @@
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2c5364,203a43,0f2027&height=200&section=header&text=ADRIEL%20SILVA%20HERNÁNDEZ&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <br><br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2c5364,203a43,0f2027&height=220&section=header&text=ADRIEL%20SILVA%20HERNÁNDEZ&fontSize=48&fontColor=
+
 
 <div align="center">
 
