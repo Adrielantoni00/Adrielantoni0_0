@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&width=700&lines=Python+·+C%2B%2B+·+Bash+·+PowerShell;Docker+·+Git+·+systemd+·+SSH+·+GPG;LM+Studio+·+Ollama+·+Claude+API;RAG+Pipelines+·+Multi-agent+Orchestration;Game+Scripting+·+Folkloric+Novels)](https://github.com/Adrielantoni00)
 
-<br>
-
 <!-- Badges interactivos de contacto -->
 [![Email](https://img.shields.io/badge/📧_Adrielantoni00@icloud.com-EA4335?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=000)](mailto:Adrielantoni00@icloud.com)
 [![Phone](https://img.shields.io/badge/📱_939--454--6674-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000)](tel:9394546674)
@@ -13,8 +11,6 @@
 [![Location](https://img.shields.io/badge/📍_Bayamón,_PR_00956-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000)]()
 
 </div>
-
----
 
 ## 🎯 Professional Summary
 
