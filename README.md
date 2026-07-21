@@ -2,8 +2,6 @@
 
 <br><br><br>
 
----
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=36BCF7&center=true&width=700&lines=Python+·+C%2B%2B+·+Bash+·+PowerShell;Docker+·+Git+·+systemd+·+SSH+·+GPG;LM+Studio+·+Ollama+·+Claude+API;RAG+Pipelines+·+Multi-agent+Orchestration;Game+Scripting+·+Folkloric+Novels)](https://github.com/Adrielantoni00)
